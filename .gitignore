@@ -1,0 +1,19 @@
+# Raw and processed sequence data
+data/raw/
+data/processed/
+# Genome reference files and indexes
+genomes/*.fa
+genomes/*.bt2l
+genomes/*.tmp
+# Quality control and reporting outputs
+results/fastp/
+results/fastqc_trimmed/
+results/multiqc/
+results/multiqc_trimmed/
+# System files
+.DS_Store
+# Editor temp files
+*.swp
+*~
+.vscode/
+.ipynb_checkpoints/
