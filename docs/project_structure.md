@@ -10,7 +10,7 @@
 - **F1** — Low-Sugar kvass with fibre, fermented with SDY (LSF-Kvass-Y)
 
 ## Project Directory Layout
-
+<pre>\'\'\'
 Kvass_project/
 ├── data/
 │   ├── raw/
@@ -49,7 +49,7 @@ Kvass_project/
 │       └── multiqc_data/ → Supporting files for trimmed MultiQC summary
 ├── scripts/
 │   └── run_host_filtering.sh → Bash script to filter host reads using Bowtie2
-
+\'\'\'</pre>
 Kvass_project/
 ├── data/
 │   ├── raw/
