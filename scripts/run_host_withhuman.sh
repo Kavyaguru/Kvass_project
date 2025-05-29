@@ -1,7 +1,7 @@
 #!/bin/bash
-
+  
 READ_DIR=~/Kvass_project/data/processed/trimmed_reads
-OUT_DIR=~/Kvass_project/data/processed/host_filtered_reads
+OUT_DIR=~/Kvass_project/data/processed/host_withhuman_filtered_reads
 HOST_INDEX=~/Kvass_project/genomes/combined_hosts
 
 mkdir -p "$OUT_DIR"
