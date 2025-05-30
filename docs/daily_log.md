@@ -59,4 +59,13 @@ A daily record of progress, tools used, and relevant commands.
 - Installed both `MetaPhlAn` and `HUMAnN`
 - Ran `HUMAnN` on all kvass samples using MetaPhlAn profiles for functional analysis
 
-
+## 📅 Week 2: Objectives
+**Tasks to be Completed**
+- Process and load MetaPhlAn3 output into R or Python for analysis.
+- Visualize species composition using heatmaps and bar charts (top taxa).
+- Compare shotgun taxonomy to 16S at the genus level to assess overlap.
+- Perform PCA and Bray–Curtis analysis on species abundance data.
+- Run differential abundance analysis (DESeq2) for starter, inulin, and ginger variables.
+- Organize and save all figures and results in appropriate directories.
+- Prepare summary plots and key findings for supervisor feedback.
+- Backup data and scripts, and commit all changes to Git.
