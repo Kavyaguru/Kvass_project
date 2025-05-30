@@ -8,18 +8,23 @@ The research aims to create a **synbiotic** kvass—combining **probiotics** fro
 
 ## Objectives
 
-- Compare microbiomes of two **sourdough starter cultures** (Starter X and Starter Y).
-- Characterise microbial changes across four kvass types:
-  - Standard Kvass
-  - Low-Sugar Kvass with Inulin (using Starter X)
-  - Low-Sugar Kvass with Inulin (using Starter Y)
-  - Low-Sugar Ginger Kvass with Inulin (using Starter X)
-- Profile both **taxonomic diversity** and **functional pathways**, focusing on:
-  - Fibre-degradation (e.g., inulin metabolism)
-  - SCFA production
-  - Polyphenol metabolism (from ginger)
-  - Vitamin biosynthesis
+Hypothesis 1:
+Sourdough Starters X and Y have significantly different microbial communities and functional gene profiles prior to fermentation.
 
+Hypothesis 2:
+Fermentation of kvass with a sourdough starter causes a major shift in microbial diversity and function compared to the original starter culture.
+
+Hypothesis 3:
+Using low-sugar and fibre (inulin) in kvass selectively enriches microbes and genes adapted to these substrates compared to standard kvass.
+
+Hypothesis 4:
+Even under the same fermentation conditions, different sourdough starters imprint distinct microbial and functional signatures on the final kvass.
+
+Hypothesis 5:
+Adding ginger to kvass alters the microbial community structure and functions due to the selective pressure of ginger’s bioactive compounds.
+
+Hypothesis 6:
+Different kvass formulations and starter cultures lead to distinct functional potentials related to fibre degradation, SCFA production, and other health-relevant pathways.
 ## Sample Summary
 
 | Sample | Description                                                   |
